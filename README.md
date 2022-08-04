@@ -1,2 +1,2 @@
-# JameelAhmed
+# GithubPages learning
 Github
